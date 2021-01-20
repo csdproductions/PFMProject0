@@ -26,6 +26,7 @@ PFMProject0AudioProcessor::PFMProject0AudioProcessor()
 
 PFMProject0AudioProcessor::~PFMProject0AudioProcessor()
 {
+    int test = 0;
 }
 
 //==============================================================================
